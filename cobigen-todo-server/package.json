@@ -1,0 +1,7 @@
+{
+  "name": "@devonfw/cobigen-todo-server",
+  "version": "1.0.0",
+  "description": "Todo server to implement the input reader and merger for CobiGen",
+  "author": "CobiGen Team",
+  "license": "Apache"
+}
